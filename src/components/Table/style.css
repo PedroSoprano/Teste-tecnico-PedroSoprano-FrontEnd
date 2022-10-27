@@ -1,0 +1,21 @@
+.contarinerTable {
+  margin-top: 40px;
+  background-color: aqua;
+}
+
+.reportTitle {
+  font-weight: 400;
+  color: #4d6477;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.resume {
+  margin-left: 40px;
+  color: #e02550;
+  border-bottom: 3px solid #e02550;
+  font-weight: 700;
+  padding-bottom: 7px;
+  width: 150px;
+  text-align: center;
+}

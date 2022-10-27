@@ -1,0 +1,103 @@
+.containerPolicy {
+  width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.policyTitle {
+  font-weight: 400;
+  color: #4d6477;
+  margin-left: 40px;
+}
+
+.containerInfo {
+  width: 660px;
+  background-color: #fff;
+  margin-left: 40px;
+  height: 500px;
+  /* color: #fff; */
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.headerContainer {
+  width: 100%;
+  background-color: #4d6477;
+  height: 50px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.headerContainer > p {
+  margin-left: 50px;
+}
+
+.rowPolicy {
+  display: flex;
+  border-bottom: 0.1px solid rgb(238, 238, 238);
+  align-items: center;
+  font-weight: 500;
+}
+
+.contentPolicyGreat {
+  border-bottom: 1px solid green;
+  border-top: 1px solid green;
+  width: 60px;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.contentPolicyGood {
+  border-bottom: 1px solid darkblue;
+  border-top: 1px solid darkblue;
+  width: 200px;
+  text-align: center;
+  overflow-y: auto;
+}
+
+.contentPolicyCritic {
+  border-bottom: 1px solid orange;
+  border-top: 1px solid orange;
+  width: 80px;
+  text-align: center;
+}
+
+.iconPen {
+  text-align: end;
+  width: 38%;
+}
+
+.buttonPen {
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.headerModal {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.exit {
+  background-color: #fff;
+  border: none;
+  color: #e02550;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.bom {
+  padding-left: 40px;
+}
+
+.critico {
+  padding-left: 50px;
+}

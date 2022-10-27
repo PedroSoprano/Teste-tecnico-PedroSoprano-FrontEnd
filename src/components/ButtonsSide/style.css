@@ -1,0 +1,46 @@
+.textInsideMenu {
+  width: 100%;
+  color: #4d6477;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.teste {
+  background-color: none;
+}
+
+.itemsMenu {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding-left: 20px;
+  color: #4d6477;
+  font-weight: 700;
+}
+
+.itemsMenuSelect {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding-left: 20px;
+  color: #e02550;
+  font-weight: 700;
+}
+
+.textItemMenu {
+  margin-left: 20px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#firstItem {
+  margin-top: 5px;
+}
